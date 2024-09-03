@@ -1,7 +1,7 @@
 from src.math_operations import add,sub,multiply,div
 
 def test_cases():
-    assert add(2,5)==5
+    assert add(2,5)==7
     assert add(-1,1)==0
     assert sub(5,3)==2
     assert sub(-1,1)==-2
